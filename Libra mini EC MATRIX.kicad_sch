@@ -4695,9 +4695,9 @@
 		(at 201.93 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02004d79-e56d-472f-9c64-2ac00db77c09")
 		(property "Reference" "SW46"
@@ -4785,7 +4785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kicad footprints:ecs_pad_hybrid_hotswap_1.810"
+		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
 			(at 201.93 102.87 0)
 			(effects
 				(font
@@ -5184,9 +5184,9 @@
 		(at 58.42 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2550907e-42f2-4d87-a8bc-d978eff5c8e9")
 		(property "Reference" "SW49"
@@ -5800,9 +5800,9 @@
 		(at 107.95 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43ff5e85-3016-4356-9a01-bf267ad0ae50")
 		(property "Reference" "SW42"
@@ -5869,9 +5869,9 @@
 		(at 91.44 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "441b0dbf-c670-40ff-9746-07aaaaaa357a")
 		(property "Reference" "SW41"
@@ -6358,9 +6358,9 @@
 		(at 152.4 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "556a9504-fa53-4b2e-afaa-b993ce243c76")
 		(property "Reference" "SW43"
@@ -7754,9 +7754,9 @@
 		(at 168.91 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91d9e8e8-1875-4973-aae9-4a71f8e0c586")
 		(property "Reference" "SW44"
@@ -7823,9 +7823,9 @@
 		(at 185.42 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9529a580-6bc1-4f80-9a49-2e46281a1879")
 		(property "Reference" "SW45"
@@ -8893,7 +8893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kicad footprints:ecs_pad_hybrid_hotswap_1.810"
+		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
 			(at 185.42 102.87 0)
 			(effects
 				(font
@@ -9705,9 +9705,9 @@
 		(at 41.91 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3212df7-db7b-402c-a0cb-25e572ce30ac")
 		(property "Reference" "SW48"
