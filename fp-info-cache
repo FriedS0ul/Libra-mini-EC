@@ -1,4 +1,4 @@
-27002156954777997
+27092105129824694
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67672,6 +67672,363 @@ Jumper
 SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
 SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
 solder jumper open
+0
+3
+3
+Kicad footprints
+0.5mm mechanical
+
+
+0
+0
+0
+Kicad footprints
+Breakaway_Tabs
+
+
+0
+0
+0
+Kicad footprints
+Button_Switch TS2306A
+
+
+0
+2
+2
+Kicad footprints
+Diodes_DFN1006-2
+DFN package size 1006 3 pins
+DFN package size 1006 3 pins
+0
+2
+2
+Kicad footprints
+FISH_logo_beeg
+
+
+0
+0
+0
+Kicad footprints
+FISH_logo_smol
+
+
+0
+0
+0
+Kicad footprints
+FPC-SMD_AFA01-S04FCC-00
+
+
+0
+6
+6
+Kicad footprints
+FPC-SMD_F4B04U
+
+
+0
+6
+6
+Kicad footprints
+H60
+
+
+0
+12
+1
+Kicad footprints
+H60 standard 60 with cutouts
+
+
+0
+12
+1
+Kicad footprints
+Jumper-UserFriendly-Small
+
+
+0
+2
+2
+Kicad footprints
+LX60ec github QR
+
+
+0
+0
+0
+Kicad footprints
+Logo FriedSoul by Tishhh 10x7.5
+
+
+0
+0
+0
+Kicad footprints
+Logo FriedSoul by Tishhh 100x75
+
+
+0
+0
+0
+Kicad footprints
+MX switch + 2u stab plate cutout
+
+
+0
+0
+0
+Kicad footprints
+SOICbite_footprint
+
+
+0
+8
+8
+Kicad footprints
+Standard 60 outline
+
+
+0
+3
+1
+Kicad footprints
+Untitled
+
+
+0
+0
+0
+Kicad footprints
+Untitled_1
+
+
+0
+0
+0
+Kicad footprints
+Untitled_2
+
+
+0
+0
+0
+Kicad footprints
+WQFN-20_L4.0-W3.0-P0.50-BL-EP
+
+
+0
+21
+21
+Kicad footprints
+ec_sw_125_gap_4pin
+
+
+0
+8
+3
+Kicad footprints
+ec_sw_pad
+ StepUp generated footprint
+
+0
+3
+3
+Kicad footprints
+ec_sw_pad_no_ring
+ StepUp generated footprint
+
+0
+4
+3
+Kicad footprints
+ecs_pad ANSI+ISO Enter
+
+
+0
+8
+3
+Kicad footprints
+ecs_pad_0.25U_spaced_no_ring
+ StepUp generated footprint
+
+0
+8
+3
+Kicad footprints
+ecs_pad_1.5_1.25
+ StepUp generated footprint
+
+0
+6
+3
+Kicad footprints
+ecs_pad_1.5_1.25_hybrid_hotswap
+ StepUp generated footprint
+
+0
+18
+3
+Kicad footprints
+ecs_pad_1.5_1.25_hybrid_hotswap_ROT
+ StepUp generated footprint
+
+0
+22
+3
+Kicad footprints
+ecs_pad_1.5_1.25_hybrid_hotswap_ROT_v2
+ StepUp generated footprint
+
+0
+22
+3
+Kicad footprints
+ecs_pad_1.5_1.25_hybrid_solder
+ StepUp generated footprint
+
+0
+8
+3
+Kicad footprints
+ecs_pad_1.25U+1.5U
+ StepUp generated footprint
+
+0
+6
+3
+Kicad footprints
+ecs_pad_1U_hybrid_hotswap
+ StepUp generated footprint
+
+0
+12
+3
+Kicad footprints
+ecs_pad_1U_hybrid_hotswap_V2
+ StepUp generated footprint
+
+0
+12
+3
+Kicad footprints
+ecs_pad_1U_hybrid_solder
+ StepUp generated footprint
+
+0
+8
+3
+Kicad footprints
+ecs_pad_1U_no_ring
+ StepUp generated footprint
+
+0
+6
+3
+Kicad footprints
+ecs_pad_2U_no_ring_cut
+ StepUp generated footprint
+
+0
+6
+3
+Kicad footprints
+ecs_pad_hybrid hotswap_1.25-1_libra_2.286
+
+
+0
+18
+3
+Kicad footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
+ StepUp generated footprint
+
+0
+18
+3
+Kicad footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
+ StepUp generated footprint
+
+0
+18
+3
+Kicad footprints
+ffc-fpc_4pin_1mm
+Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+6
+5
+Kicad footprints
+friedsoul logo by tishhhh
+
+
+0
+0
+0
+Kicad footprints
+lx60 + standard 60 outline
+
+
+0
+0
+0
+Kicad footprints
+lx60 outline
+
+
+0
+0
+0
+Kicad footprints
+m2 hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+Kicad footprints
+m2_slot_pad
+
+
+0
+1
+1
+Kicad footprints
+m2_slot_pad_breakable
+
+
+0
+0
+0
+Kicad footprints
+mousebites 2mm
+
+
+0
+0
+0
+Kicad footprints
+regina_1
+
+
+0
+0
+0
+Kicad footprints
+regina_1_smol
+
+
+0
+0
+0
+Kicad footprints
+standard 60 outline more option
+
+
 0
 3
 3
