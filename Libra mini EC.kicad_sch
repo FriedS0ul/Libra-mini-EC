@@ -1930,168 +1930,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Kicad symbols:Analog_joystick_5pin"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Analog_joystick_5pin_1_1"
-				(polyline
-					(pts
-						(xy -3.81 7.62) (xy 3.81 7.62) (xy 7.62 3.81) (xy 7.62 -3.81) (xy 3.81 -7.62) (xy -3.81 -7.62)
-						(xy -7.62 -3.81) (xy -7.62 3.81) (xy -3.81 7.62)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin output line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "X"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "Y"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 10.16 270)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 -10.16 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "BTN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "MCU_ST_STM32G4:STM32G474CBTx"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4144,28 +3982,24 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Switch:SW_MEC_5G"
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "Switch:SW_DPST_x2"
 			(pin_names
-				(offset 1.016)
+				(offset 0)
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 1.27 2.54 0)
+				(at 0 3.175 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "SW_MEC_5G"
-				(at 0 -1.524 0)
+			(property "Value" "SW_DPST_x2"
+				(at 0 -2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4173,24 +4007,6 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "MEC 5G single pole normally-open tactile switch"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4199,7 +4015,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4208,7 +4024,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SW*MEC*5G*"
+			(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4217,7 +4033,16 @@
 					(hide yes)
 				)
 			)
-			(symbol "SW_MEC_5G_0_1"
+			(property "ki_keywords" "switch lever"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_DPST_x2_0_0"
 				(circle
 					(center -2.032 0)
 					(radius 0.508)
@@ -4231,7 +4056,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 1.27) (xy 0 3.048)
+						(xy -1.524 0.254) (xy 1.524 1.778)
 					)
 					(stroke
 						(width 0)
@@ -4252,18 +4077,8 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			)
+			(symbol "SW_DPST_x2_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -4292,7 +4107,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4301,11 +4116,10 @@
 					)
 				)
 			)
-			(symbol "SW_MEC_5G_1_1"
+			(symbol "SW_DPST_x2_2_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
-					(hide yes)
 					(name "A"
 						(effects
 							(font
@@ -4313,7 +4127,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4324,7 +4138,6 @@
 				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
-					(hide yes)
 					(name "B"
 						(effects
 							(font
@@ -4940,6 +4753,12 @@
 		(uuid "5126ed4b-acba-430e-b911-2c24e2f3a634")
 	)
 	(junction
+		(at 266.7 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "544e28cb-cadc-4dee-a891-b56ca46e83ef")
+	)
+	(junction
 		(at 101.6 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4976,6 +4795,12 @@
 		(uuid "71768331-6b36-4978-91a9-5f32a57bff32")
 	)
 	(junction
+		(at 232.41 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71c5ba4d-dd01-4cbf-9e24-17c96411f527")
+	)
+	(junction
 		(at 170.18 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5004,12 +4829,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85ee66a3-1554-4c57-8e53-a725d9a55d57")
-	)
-	(junction
-		(at 232.41 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8670c3fd-25bb-4b1c-a7f4-73e074d208df")
 	)
 	(junction
 		(at 96.52 55.88)
@@ -5125,12 +4944,6 @@
 		(color 0 0 0 0)
 		(uuid "f3653a84-d39d-4296-b1a6-54edae7afe09")
 	)
-	(junction
-		(at 266.7 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fa8ad65d-bcef-41af-895d-46a458d40986")
-	)
 	(no_connect
 		(at 121.92 57.15)
 		(uuid "29c9f9df-986d-452e-a371-8e37f506d7a7")
@@ -5200,16 +5013,6 @@
 			(type default)
 		)
 		(uuid "087ffe99-a479-46e3-b6a7-b865253920f9")
-	)
-	(wire
-		(pts
-			(xy 250.19 127) (xy 250.19 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "095bd1b5-98c8-459e-8a3c-95d113fe7b89")
 	)
 	(wire
 		(pts
@@ -5340,16 +5143,6 @@
 			(type default)
 		)
 		(uuid "22c6e446-1e99-4c69-ba5c-5f0a11ffcb56")
-	)
-	(wire
-		(pts
-			(xy 250.19 104.14) (xy 250.19 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "232f01d3-e1df-479c-a278-421f4c4a77eb")
 	)
 	(wire
 		(pts
@@ -6787,28 +6580,6 @@
 			)
 		)
 	)
-	(global_label "JOYSTICK_X"
-		(shape input)
-		(at 240.03 113.03 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27b4276a-d490-4438-a1f3-7561e1595775")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.1591 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ROW3"
 		(shape input)
 		(at 157.48 185.42 180)
@@ -6844,28 +6615,6 @@
 		(uuid "366b7208-dce0-4d52-b266-3e9244d4af49")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.1371 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "JOYSTICK_BTN"
-		(shape input)
-		(at 260.35 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "38cf9fad-bcb5-4f64-a884-6add9526f29e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 276.5795 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7443,28 +7192,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "JOYSTICK_Y"
-		(shape input)
-		(at 240.03 118.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bdfc930e-cba9-4d24-b9ce-6b62583fef92")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.28 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -9137,81 +8864,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 271.78 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "428e1f9e-782f-40d3-a358-4d872f184c64")
-		(property "Reference" "RESET_SW1"
-			(at 271.78 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 271.78 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
-			(at 271.78 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 271.78 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 271.78 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "aaf45912-5233-467d-91df-d8f3221c1b80")
-		)
-		(pin "2"
-			(uuid "672a77f8-f3b3-4046-8094-c09d37f97735")
-		)
-		(pin "1"
-			(uuid "56ac4066-b5a7-4fbc-a3a4-b41a24161ec0")
-		)
-		(pin "4"
-			(uuid "2d204451-e80c-4b1b-b61e-f4595a888416")
-		)
-		(instances
-			(project "Libra mini EC"
-				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
-					(reference "RESET_SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 175.26 99.06 0)
 		(mirror y)
@@ -9622,72 +9274,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3VA")
-		(at 250.19 104.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "568e2565-b2e7-4187-9840-78bdab3a3335")
-		(property "Reference" "#PWR010"
-			(at 250.19 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3VA"
-			(at 250.19 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 250.19 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 250.19 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
-			(at 250.19 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30ee97af-0e1d-4bd1-a4bb-904b7f79e5c9")
-		)
-		(instances
-			(project "Libra mini EC"
-				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x18")
 		(at 115.57 172.72 0)
 		(mirror y)
@@ -9870,84 +9456,6 @@
 			(project "Libra mini EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
 					(reference "C19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Kicad symbols:Analog_joystick_5pin")
-		(at 250.19 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "64b40edf-1ba4-4b02-a757-ae0d0aa4cdab")
-		(property "Reference" "J2"
-			(at 260.35 109.1498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Analog joystick 5 pin"
-			(at 260.35 111.6898 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 250.19 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 250.19 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 250.19 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "0"
-			(uuid "8c3e1f39-9ccb-4fe4-a47b-311865a92d5e")
-		)
-		(pin "4"
-			(uuid "08d58f95-017e-41af-881b-62364d4f7a7d")
-		)
-		(pin "2"
-			(uuid "5c209454-9dfd-41b2-aba7-8468a1ecb9dc")
-		)
-		(pin "3"
-			(uuid "544eacb3-6c4c-49bb-8fab-068b1a72289d")
-		)
-		(pin "1"
-			(uuid "7998262a-e4df-4b8b-95f7-5d92a3d2df1a")
-		)
-		(instances
-			(project ""
-				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -12077,6 +11585,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_DPST_x2")
+		(at 271.78 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9c06093-dcbb-4083-b8e8-0b41f1172884")
+		(property "Reference" "RESET_SW1"
+			(at 271.78 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Omron b3u"
+			(at 271.78 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+			(at 271.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 271.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+			(at 271.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b0b401f3-685c-4047-82c0-06f3be080c52")
+		)
+		(pin "3"
+			(uuid "e5633cd6-faef-4153-a1c5-206c1b94ba58")
+		)
+		(pin "4"
+			(uuid "3f828388-e983-4235-a749-4cf219a85eb4")
+		)
+		(pin "1"
+			(uuid "ac61ae54-dcb7-400f-b76e-8c8f74ac90a9")
+		)
+		(instances
+			(project "Libra mini EC"
+				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
+					(reference "RESET_SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_DPST_x2")
+		(at 237.49 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb7cf818-d52a-45b8-9dd9-f3ea0797e56f")
+		(property "Reference" "BOOT_SW1"
+			(at 237.49 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Omron b3u"
+			(at 237.49 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+			(at 237.49 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+			(at 237.49 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d8d63e15-149b-48b1-8b4f-cce539c4f9da")
+		)
+		(pin "3"
+			(uuid "e5633cd6-faef-4153-a1c5-206c1b94ba59")
+		)
+		(pin "4"
+			(uuid "3f828388-e983-4235-a749-4cf219a85eb5")
+		)
+		(pin "1"
+			(uuid "8bbf0d68-d33c-439e-97b0-941641ff460a")
+		)
+		(instances
+			(project ""
+				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
+					(reference "BOOT_SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 77.47 168.91 0)
 		(unit 1)
@@ -13496,72 +13152,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 250.19 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e38cf23c-6686-4ada-a6e0-2e24f3edcb4c")
-		(property "Reference" "#PWR014"
-			(at 250.19 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 250.19 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 250.19 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 250.19 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 250.19 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "057bf155-07f2-4ad3-9e05-9abe1669dfc6")
-		)
-		(instances
-			(project "Libra mini EC"
-				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 205.74 152.4 180)
 		(unit 1)
@@ -14142,81 +13732,6 @@
 			(project "Libra mini EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 237.49 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc8b1d3d-8ea1-4139-8657-aaae93951e82")
-		(property "Reference" "BOOT_SW1"
-			(at 237.49 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 237.49 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
-			(at 237.49 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 237.49 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 237.49 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "413a477b-e1b3-4e1c-87c8-17bbd261ea61")
-		)
-		(pin "2"
-			(uuid "7b1a231d-341d-4cff-939b-5c5c3566a3a3")
-		)
-		(pin "1"
-			(uuid "f3891122-03f5-4312-a439-3be898abe324")
-		)
-		(pin "4"
-			(uuid "81385040-e230-4727-a771-782e9e9a9a6f")
-		)
-		(instances
-			(project ""
-				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
-					(reference "BOOT_SW1")
 					(unit 1)
 				)
 			)

@@ -983,6 +983,12 @@
 		(uuid "25db6cf1-b3f7-498b-be38-3c25110490eb")
 	)
 	(junction
+		(at 161.29 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29dadec0-c17d-48c6-81c8-00899247f459")
+	)
+	(junction
 		(at 67.31 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1349,6 +1355,12 @@
 		(uuid "9a8efc08-7404-4679-9142-66c1ba20b7a1")
 	)
 	(junction
+		(at 194.31 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9df72f69-c558-4d72-b07e-77bcb82c6a97")
+	)
+	(junction
 		(at 107.95 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1613,6 +1625,12 @@
 		(uuid "e6eeb7a8-d335-480f-9e2e-a74b1fc3bd2a")
 	)
 	(junction
+		(at 177.8 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea9d0f2e-93a7-4816-9d5a-60383034e146")
+	)
+	(junction
 		(at 160.02 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1717,6 +1735,16 @@
 			(type default)
 		)
 		(uuid "0612ecfc-a8ce-4523-b8a1-5e68f4cbf506")
+	)
+	(wire
+		(pts
+			(xy 177.8 87.63) (xy 177.8 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06bab037-77cb-40cc-8f06-52c1448759e9")
 	)
 	(wire
 		(pts
@@ -1897,6 +1925,16 @@
 			(type default)
 		)
 		(uuid "1bb6f777-ab13-492b-be29-3201be1d21bd")
+	)
+	(wire
+		(pts
+			(xy 193.04 93.98) (xy 193.04 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c193634-378d-4d62-9d72-e0b1f3d72fa4")
 	)
 	(wire
 		(pts
@@ -2217,6 +2255,16 @@
 			(type default)
 		)
 		(uuid "40dba33d-c4d1-4dd6-b663-650401c05278")
+	)
+	(wire
+		(pts
+			(xy 176.53 93.98) (xy 176.53 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "412e614c-1354-46ff-be85-a4bc0716addc")
 	)
 	(wire
 		(pts
@@ -2830,6 +2878,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 87.63) (xy 194.31 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81eb5cf6-64b8-470e-86db-55c3adc34660")
+	)
+	(wire
+		(pts
 			(xy 148.59 125.73) (xy 173.99 125.73)
 		)
 		(stroke
@@ -2977,6 +3035,16 @@
 			(type default)
 		)
 		(uuid "934b4650-ad52-4fe8-bc88-bd45490337bd")
+	)
+	(wire
+		(pts
+			(xy 209.55 93.98) (xy 209.55 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93dc9db6-ae09-4c0e-86f8-fd9f57a6786c")
 	)
 	(wire
 		(pts
@@ -3257,6 +3325,16 @@
 			(type default)
 		)
 		(uuid "af4f93dc-cd63-4b37-a550-62547b11e138")
+	)
+	(wire
+		(pts
+			(xy 168.91 92.71) (xy 168.91 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1af892d-0c32-424f-a35f-d64e8fa126f3")
 	)
 	(wire
 		(pts
@@ -3630,6 +3708,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 87.63) (xy 161.29 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de4fe86a-13c4-4ad1-a42c-63681544cbca")
+	)
+	(wire
+		(pts
 			(xy 209.55 48.26) (xy 226.06 48.26)
 		)
 		(stroke
@@ -3887,6 +3975,16 @@
 			(type default)
 		)
 		(uuid "f1f087b3-9892-4adc-84e8-f0e6364d647e")
+	)
+	(wire
+		(pts
+			(xy 185.42 92.71) (xy 185.42 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f273163a-7502-4261-ba32-c8977791fdd4")
 	)
 	(wire
 		(pts
@@ -4474,7 +4572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
+		(property "Footprint" "Kicad footprints:ecs_pad_hybrid_hotswap_1.25-1_libra_2.381"
 			(at 201.93 87.63 0)
 			(effects
 				(font
@@ -4863,6 +4961,75 @@
 			(project "Libra mini EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kicad symbols:EC_SW")
+		(at 185.42 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2550907e-42f2-4d87-a8bc-d978eff5c8e9")
+		(property "Reference" "SW49"
+			(at 185.42 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EC_SW"
+			(at 185.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5951c07d-06fe-4164-b9f7-5aa3045db4eb")
+		)
+		(pin "2"
+			(uuid "900161b4-a215-4298-8f1a-f5f1589077bf")
+		)
+		(pin "3"
+			(uuid "17c9d81c-4ce7-4b50-994c-dfdc38df6e60")
+		)
+		(instances
+			(project "Libra mini EC"
+				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -5904,6 +6071,75 @@
 			(project "Libra mini EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kicad symbols:EC_SW")
+		(at 201.93 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "569aabb9-da9b-4b51-83e1-385317b20c36")
+		(property "Reference" "SW50"
+			(at 201.93 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EC_SW"
+			(at 201.93 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
+			(at 201.93 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 201.93 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "63f619ae-39c6-4229-8fd9-74a03f10843d")
+		)
+		(pin "2"
+			(uuid "1e1b49c6-aa3b-4e7b-8bd2-577553b2d68c")
+		)
+		(pin "3"
+			(uuid "20149674-f28c-414f-be6e-0fc91c1aa577")
+		)
+		(instances
+			(project "Libra mini EC"
+				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -7343,7 +7579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kicad footprints:ecs_pad_1U_hybrid_hotswap_V2"
+		(property "Footprint" "Kicad footprints:ecs_pad_hybrid_hotswap_1.25-1_libra_7.239"
 			(at 185.42 87.63 0)
 			(effects
 				(font
@@ -7826,7 +8062,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 152.4 99.06 0)
+		(at 151.13 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7835,7 +8071,7 @@
 		(fields_autoplaced yes)
 		(uuid "bdb97207-4c1f-42f4-bd94-93a16945b9cc")
 		(property "Reference" "S43"
-			(at 158.75 97.6629 0)
+			(at 157.48 104.0129 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7844,7 +8080,7 @@
 			)
 		)
 		(property "Value" "MX_stab"
-			(at 158.75 100.2029 0)
+			(at 157.48 106.5529 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7853,7 +8089,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
-			(at 152.4 99.06 0)
+			(at 151.13 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7862,7 +8098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 99.06 0)
+			(at 151.13 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7871,7 +8107,7 @@
 			)
 		)
 		(property "Description" "Cherry MX-style stabilizer"
-			(at 152.4 99.06 0)
+			(at 151.13 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8992,6 +9228,75 @@
 			(project "Libra mini EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Kicad symbols:EC_SW")
+		(at 168.91 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3212df7-db7b-402c-a0cb-25e572ce30ac")
+		(property "Reference" "SW48"
+			(at 168.91 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EC_SW"
+			(at 168.91 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Kicad footprints:ecs_pad_hybrid hotswap_1.25-1_libra_2.286"
+			(at 168.91 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 168.91 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 168.91 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ee233aaf-8e51-460b-9020-2ca9858db58e")
+		)
+		(pin "2"
+			(uuid "7938d1e1-bbd7-4a33-a2e6-c97f7ed1f0fb")
+		)
+		(pin "3"
+			(uuid "2018d48f-cea2-4a86-8cb8-119c9a8ff475")
+		)
+		(instances
+			(project "Libra mini EC"
+				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
+					(reference "SW48")
 					(unit 1)
 				)
 			)

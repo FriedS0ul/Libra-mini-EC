@@ -1,4 +1,4 @@
-28347788356095345
+28365549860112545
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67802,6 +67802,20 @@ Untitled
 0
 0
 Kicad footprints
+Untitled_1
+
+
+0
+0
+0
+Kicad footprints
+Untitled_2
+
+
+0
+0
+0
+Kicad footprints
 WQFN-20_L4.0-W3.0-P0.50-BL-EP
 
 
@@ -67919,6 +67933,27 @@ ecs_pad_2U_no_ring_cut
 
 0
 6
+3
+Kicad footprints
+ecs_pad_hybrid hotswap_1.25-1_libra_2.286
+
+
+0
+18
+3
+Kicad footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
+ StepUp generated footprint
+
+0
+18
+3
+Kicad footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
+ StepUp generated footprint
+
+0
+18
 3
 Kicad footprints
 ffc-fpc_4pin_1mm
@@ -72457,6 +72492,20 @@ Untitled
 0
 0
 My_footprints
+Untitled_1
+
+
+0
+0
+0
+My_footprints
+Untitled_2
+
+
+0
+0
+0
+My_footprints
 WQFN-20_L4.0-W3.0-P0.50-BL-EP
 
 
@@ -72574,6 +72623,27 @@ ecs_pad_2U_no_ring_cut
 
 0
 6
+3
+My_footprints
+ecs_pad_hybrid hotswap_1.25-1_libra_2.286
+
+
+0
+18
+3
+My_footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_2.381
+ StepUp generated footprint
+
+0
+18
+3
+My_footprints
+ecs_pad_hybrid_hotswap_1.25-1_libra_7.239
+ StepUp generated footprint
+
+0
+18
 3
 My_footprints
 ffc-fpc_4pin_1mm
