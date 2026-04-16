@@ -4751,7 +4751,7 @@
 			(uuid "2c850478-123c-4c0f-96ef-3000ef0b33a7")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW46")
 					(unit 1)
@@ -4820,7 +4820,7 @@
 			(uuid "8386100c-a552-4d79-bb70-8bf073069ac1")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW55")
 					(unit 1)
@@ -4889,7 +4889,7 @@
 			(uuid "fc5cba3c-2fff-4055-9803-60ad2e304f69")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW15")
 					(unit 1)
@@ -4964,7 +4964,7 @@
 			(uuid "87bda687-cfdf-4ad7-8e18-80e24e19e6da")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D8")
 					(unit 1)
@@ -5033,7 +5033,7 @@
 			(uuid "68cdb60b-5323-4e7c-bb5d-2bab2eb1c227")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW47")
 					(unit 1)
@@ -5102,7 +5102,7 @@
 			(uuid "6ef33a83-328a-45e1-a201-5bd9b1ad5f0e")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW14")
 					(unit 1)
@@ -5171,7 +5171,7 @@
 			(uuid "619b578d-b159-44fd-a66e-b70cc8434c6b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW9")
 					(unit 1)
@@ -5240,7 +5240,7 @@
 			(uuid "17c9d81c-4ce7-4b50-994c-dfdc38df6e60")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW49")
 					(unit 1)
@@ -5309,7 +5309,7 @@
 			(uuid "daa8ae21-abda-4e10-8b25-bfe97627d234")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW40")
 					(unit 1)
@@ -5378,7 +5378,7 @@
 			(uuid "912271b0-f847-4a2f-94aa-5a29dca1618c")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW28")
 					(unit 1)
@@ -5447,7 +5447,7 @@
 			(uuid "9a6f5acf-c98c-4f2d-9bf0-a597fc8a87fd")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW7")
 					(unit 1)
@@ -5511,7 +5511,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "S47")
 					(unit 1)
@@ -5580,7 +5580,7 @@
 			(uuid "ac9e15e4-5750-4434-a4d2-38dab8846b8a")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW3")
 					(unit 1)
@@ -5649,7 +5649,7 @@
 			(uuid "bf1f2a85-f786-4bb4-b251-dcb3fce9f41a")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW25")
 					(unit 1)
@@ -5718,7 +5718,7 @@
 			(uuid "4f7f897c-ee94-45fd-bf56-e3a2e73ce615")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW51")
 					(unit 1)
@@ -5787,7 +5787,7 @@
 			(uuid "b41b2e27-8940-4b74-93fd-d39bbc5a93b3")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW12")
 					(unit 1)
@@ -5856,7 +5856,7 @@
 			(uuid "efc8e4cc-38d6-4d94-83c8-7a46b8c04676")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW42")
 					(unit 1)
@@ -5925,7 +5925,7 @@
 			(uuid "b41da2fa-34ee-4e85-a5ba-43e3d3717e3b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW41")
 					(unit 1)
@@ -5994,7 +5994,7 @@
 			(uuid "688ff7c4-c2b5-48db-a21c-132f45f6dea1")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW26")
 					(unit 1)
@@ -6069,7 +6069,7 @@
 			(uuid "ca07f84d-f276-43f1-b6e1-f24e37d7a36b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D9")
 					(unit 1)
@@ -6138,7 +6138,7 @@
 			(uuid "9f4b8ae9-f350-49d1-af0f-bd5a13f52781")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW18")
 					(unit 1)
@@ -6207,7 +6207,7 @@
 			(uuid "4360c067-8546-40d2-977d-ed8c220dae8f")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW32")
 					(unit 1)
@@ -6276,7 +6276,7 @@
 			(uuid "06ecda6d-ddbe-490d-bfc2-1e6d39ade3e8")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW22")
 					(unit 1)
@@ -6345,7 +6345,7 @@
 			(uuid "9eab8583-0a66-4a4c-9009-f518158add5d")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW38")
 					(unit 1)
@@ -6414,7 +6414,7 @@
 			(uuid "0c476bf1-b3e7-4682-b539-8a2b7a4d003d")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW43")
 					(unit 1)
@@ -6483,7 +6483,7 @@
 			(uuid "20149674-f28c-414f-be6e-0fc91c1aa577")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW50")
 					(unit 1)
@@ -6552,7 +6552,7 @@
 			(uuid "c05e23a4-bd33-40fb-b3dd-12c82368f203")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW31")
 					(unit 1)
@@ -6621,7 +6621,7 @@
 			(uuid "caaa5947-f61a-40a6-83a7-d7147acb5d45")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW1")
 					(unit 1)
@@ -6690,7 +6690,7 @@
 			(uuid "295ec1da-0342-4957-8bee-4ec4539b0a7b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW23")
 					(unit 1)
@@ -6759,7 +6759,7 @@
 			(uuid "8cf060cc-9271-4cd4-9d76-13878f32aacf")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW33")
 					(unit 1)
@@ -6828,7 +6828,7 @@
 			(uuid "cfd32963-ce69-42be-8fb2-5cfdf9a9a7a7")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW53")
 					(unit 1)
@@ -6894,7 +6894,7 @@
 			(uuid "09a23dfd-044a-4447-9691-8f116b080d4d")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "#PWR044")
 					(unit 1)
@@ -6969,7 +6969,7 @@
 			(uuid "377850db-0e8a-4902-a015-3a200c12340b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D11")
 					(unit 1)
@@ -7038,7 +7038,7 @@
 			(uuid "5f954ddf-9d07-4072-a0dc-0aff8e056969")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW11")
 					(unit 1)
@@ -7107,7 +7107,7 @@
 			(uuid "ae2778bb-d0a1-4c58-9207-bf3a6f539075")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW29")
 					(unit 1)
@@ -7182,7 +7182,7 @@
 			(uuid "e98855c1-d881-4319-a706-645ec85a6f50")
 		)
 		(instances
-			(project ""
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D1")
 					(unit 1)
@@ -7251,7 +7251,7 @@
 			(uuid "e7a9b259-b0f5-442a-8766-21261b4688fb")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW5")
 					(unit 1)
@@ -7320,7 +7320,7 @@
 			(uuid "1d656263-6099-495a-a03c-1ef4145bcdc2")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW4")
 					(unit 1)
@@ -7389,7 +7389,7 @@
 			(uuid "4e65568e-7889-4a91-b73b-a2e3fa6e2961")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW27")
 					(unit 1)
@@ -7458,7 +7458,7 @@
 			(uuid "296e73a1-a3b7-4a4a-8f3c-6d06153dde2a")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW2")
 					(unit 1)
@@ -7533,7 +7533,7 @@
 			(uuid "84db78d5-d3db-4629-986f-c1dd63f798b0")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D12")
 					(unit 1)
@@ -7597,7 +7597,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "S42")
 					(unit 1)
@@ -7666,7 +7666,7 @@
 			(uuid "431a50ee-a80d-4681-bc4b-5bb41eaf2c7c")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW35")
 					(unit 1)
@@ -7741,7 +7741,7 @@
 			(uuid "700aaddf-cb9d-4af6-938a-247b5f9bb4a5")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D5")
 					(unit 1)
@@ -7810,7 +7810,7 @@
 			(uuid "91812980-3864-4ee8-b5e8-e1608919adfd")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW44")
 					(unit 1)
@@ -7879,7 +7879,7 @@
 			(uuid "8ebb9e2d-6b48-4c29-8a5e-b39bf6156546")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW45")
 					(unit 1)
@@ -7948,7 +7948,7 @@
 			(uuid "29afab25-2ad0-48a0-ae76-ad1b46367f33")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW8")
 					(unit 1)
@@ -8023,7 +8023,7 @@
 			(uuid "b5936199-1d6e-4f64-90c4-5f0cda6b1e55")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D2")
 					(unit 1)
@@ -8098,7 +8098,7 @@
 			(uuid "886dff1a-8e49-4f0c-9204-d716561068d9")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D3")
 					(unit 1)
@@ -8167,7 +8167,7 @@
 			(uuid "ae9c84d2-6324-40d4-a5cf-49e10a68f5e3")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW36")
 					(unit 1)
@@ -8242,7 +8242,7 @@
 			(uuid "dc678c97-e917-4210-91a8-f46d219560df")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D7")
 					(unit 1)
@@ -8317,7 +8317,7 @@
 			(uuid "f78bda3d-367b-4e70-94a5-2582e6a22ed0")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D6")
 					(unit 1)
@@ -8381,7 +8381,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "S43")
 					(unit 1)
@@ -8450,7 +8450,7 @@
 			(uuid "aa0217fc-05dd-4e5b-8d55-cfa07ddafeb3")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW21")
 					(unit 1)
@@ -8519,7 +8519,7 @@
 			(uuid "09705fcb-d30a-42cf-a873-f88834adb02b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW17")
 					(unit 1)
@@ -8583,7 +8583,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "S51")
 					(unit 1)
@@ -8652,7 +8652,7 @@
 			(uuid "494cac6e-fe42-4159-9ce4-2df123e104a2")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW30")
 					(unit 1)
@@ -8721,7 +8721,7 @@
 			(uuid "c5ffd0bd-82b6-45d8-aa2a-382ff0332998")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW16")
 					(unit 1)
@@ -8790,7 +8790,7 @@
 			(uuid "911279b1-222b-4bd0-929c-08ba3f156563")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW37")
 					(unit 1)
@@ -8859,7 +8859,7 @@
 			(uuid "3b1c3c23-9967-40ab-a1a5-af7633e02328")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW10")
 					(unit 1)
@@ -8928,7 +8928,7 @@
 			(uuid "1b2fb73c-ff09-4e71-a731-65becf169b9e")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW54")
 					(unit 1)
@@ -8997,7 +8997,7 @@
 			(uuid "824e0e4b-8cdd-432d-8b70-0cafd7c04d5d")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW34")
 					(unit 1)
@@ -9072,7 +9072,7 @@
 			(uuid "d77684c8-7c5b-468c-b680-109dcdaacaa3")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D10")
 					(unit 1)
@@ -9138,7 +9138,7 @@
 			(uuid "c896775d-aa65-48c6-aa92-d6afaa0c21ca")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "#PWR042")
 					(unit 1)
@@ -9207,7 +9207,7 @@
 			(uuid "74021830-b945-44e8-84c7-353b69804ff4")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW52")
 					(unit 1)
@@ -9276,7 +9276,7 @@
 			(uuid "55a2a659-c645-417b-beda-1d5e31af22e5")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW19")
 					(unit 1)
@@ -9351,7 +9351,7 @@
 			(uuid "1f5b7abd-8542-442c-84dd-044eed022e52")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "D4")
 					(unit 1)
@@ -9420,7 +9420,7 @@
 			(uuid "1bc32fa0-3ec9-4469-aea3-72a9bc297a41")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW20")
 					(unit 1)
@@ -9489,7 +9489,7 @@
 			(uuid "67254838-7db3-4fb8-8aad-4659c7576a8b")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW13")
 					(unit 1)
@@ -9558,7 +9558,7 @@
 			(uuid "422c4149-cd7e-4414-ab69-a7f39c468eee")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW24")
 					(unit 1)
@@ -9623,7 +9623,7 @@
 			(uuid "f8de54d9-9618-4501-85d4-ff2009d1a26c")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "#PWR043")
 					(unit 1)
@@ -9692,7 +9692,7 @@
 			(uuid "16ee6c19-9939-498a-908b-4dddcdc3ea79")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW39")
 					(unit 1)
@@ -9761,7 +9761,7 @@
 			(uuid "2018d48f-cea2-4a86-8cb8-119c9a8ff475")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW48")
 					(unit 1)
@@ -9825,7 +9825,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "S52")
 					(unit 1)
@@ -9894,7 +9894,7 @@
 			(uuid "ebd0b026-4673-473a-bafd-5e0292af14fe")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "SW6")
 					(unit 1)
@@ -9960,7 +9960,7 @@
 			(uuid "2822d2f4-3aa8-41b1-b0ff-756f3415a09c")
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635/cd55a9c8-e3ba-4358-95e7-c0b514b08d2d"
 					(reference "#PWR041")
 					(unit 1)

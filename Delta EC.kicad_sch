@@ -13512,7 +13512,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Libra mini EC MUX & OPAMP.kicad_sch"
+		(property "Sheetfile" "Delta EC MUX & OPAMP.kicad_sch"
 			(at 239.395 38.6846 0)
 			(effects
 				(font
@@ -13522,7 +13522,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
 					(page "3")
 				)
@@ -13554,7 +13554,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Libra mini EC MATRIX.kicad_sch"
+		(property "Sheetfile" "Delta EC MATRIX.kicad_sch"
 			(at 201.93 38.6846 0)
 			(effects
 				(font
@@ -13564,7 +13564,7 @@
 			)
 		)
 		(instances
-			(project "Libra mini EC"
+			(project "Delta EC"
 				(path "/142d6811-4cb7-4fa7-a144-e9f0e4418635"
 					(page "2")
 				)
